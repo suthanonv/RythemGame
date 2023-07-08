@@ -31,13 +31,19 @@ public class Spawing : MonoBehaviour
         }
     }
 
-
+    [SerializeField] AudioSource audioMusic;
+    [SerializeField] float TimeToStart;
     private void Start()
     {
+        Invoke("playmusic", TimeToStart);
         SpawnPool();
         StartCoroutine(StartPattern());
     }
 
+    void playmusic()
+    {
+        audioMusic.Play();
+    }
     IEnumerator StartPattern()
     {
         int count = 0;
