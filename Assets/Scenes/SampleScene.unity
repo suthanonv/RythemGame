@@ -285,6 +285,7 @@ MonoBehaviour:
       m_Calls: []
   - m_PersistentCalls:
       m_Calls: []
+  poolAmount: 30
 --- !u!1 &304418496
 GameObject:
   m_ObjectHideFlags: 0
