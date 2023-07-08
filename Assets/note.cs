@@ -31,13 +31,11 @@ public class note : MonoBehaviour
             {
                 Debug.Log("Correct Note");
             }
-            Destroy(this.gameObject);
+            Spawing.instance.DelegateLayer[index].RemoveListener(chagnelayer);
+            this.gameObject.SetActive(false);
         }
     }
 
 
-    private void OnDestroy()
-    {
-        Spawing.instance.DelegateLayer[index].RemoveListener(chagnelayer);
-    }
+  
 }
