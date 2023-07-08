@@ -12,10 +12,15 @@ public class note : MonoBehaviour
 {
 
     public notetype thisnotetype;
-
+    int index;
     public void chagnelayer(float x)
     {
         this.transform.position = new Vector2(x, this.transform.position.y);
+    }
+
+    public void SetLayer(int newindex)
+    {
+        index = newindex;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -28,5 +33,11 @@ public class note : MonoBehaviour
             }
             Destroy(this.gameObject);
         }
+    }
+
+
+    private void OnDestroy()
+    {
+        Spawing.instance.DelegateLayer[index].RemoveListener(chagnelayer);
     }
 }

@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 40930415}
   - component: {fileID: 40930416}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pole
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -255,6 +255,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff35a0e6ada190544934acf5f51964f7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  patterntospawn:
+  - delayToNextPattern: 1
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 0
+    - typeofNote: 1
+      IsHaveNote: 1
+      LayerToSpawn: 1
+    - typeofNote: 2
+      IsHaveNote: 1
+      LayerToSpawn: 2
+    - typeofNote: 3
+      IsHaveNote: 1
+      LayerToSpawn: 3
+  NotePrefab: {fileID: 984708290025062704, guid: dd197b44857dab94ca4328102f5170e3, type: 3}
+  SpawningPoint:
+  - {fileID: 1468323135}
+  - {fileID: 1424723011}
+  - {fileID: 962347542}
+  - {fileID: 644637670}
+  DelegateLayer:
+  - m_PersistentCalls:
+      m_Calls: []
+  - m_PersistentCalls:
+      m_Calls: []
+  - m_PersistentCalls:
+      m_Calls: []
+  - m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &304418496
 GameObject:
   m_ObjectHideFlags: 0
@@ -267,7 +297,7 @@ GameObject:
   - component: {fileID: 304418499}
   - component: {fileID: 304418498}
   - component: {fileID: 304418500}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -572,7 +602,7 @@ GameObject:
   - component: {fileID: 813190927}
   - component: {fileID: 813190926}
   - component: {fileID: 813190928}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -729,7 +759,7 @@ GameObject:
   - component: {fileID: 898793804}
   - component: {fileID: 898793803}
   - component: {fileID: 898793805}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -842,6 +872,57 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   NoteTypeOFBox: 2
+--- !u!1 &935693085
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 935693087}
+  - component: {fileID: 935693086}
+  m_Layer: 0
+  m_Name: NoteManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &935693086
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935693085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 768b609a7f4c74a43826b3c1211053c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NoteColor:
+  - {r: 1, g: 0, b: 0.09819126, a: 1}
+  - {r: 0, g: 0.9573026, b: 1, a: 1}
+  - {r: 0.26706147, g: 1, b: 0, a: 1}
+  - {r: 0.8845668, g: 1, b: 0, a: 1}
+  postiveKey: 100
+  negativeKey: 97
+--- !u!4 &935693087
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935693085}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.14075124, y: -3.6491637, z: 0.0023954976}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &962347541
 GameObject:
   m_ObjectHideFlags: 0
@@ -1099,7 +1180,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1445724665}
   - component: {fileID: 1445724666}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pole (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1214,7 +1295,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1471737784}
   - component: {fileID: 1471737785}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pole
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1300,7 +1381,7 @@ GameObject:
   - component: {fileID: 1638729596}
   - component: {fileID: 1638729595}
   - component: {fileID: 1638729597}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}

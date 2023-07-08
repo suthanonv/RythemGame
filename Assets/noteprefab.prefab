@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 984708290025062709}
   - component: {fileID: 984708290025062708}
   - component: {fileID: 984708290025062704}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: noteprefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
