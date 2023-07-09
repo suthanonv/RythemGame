@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Events;
+
 public class HealthSystem : MonoBehaviour
 {
     public static HealthSystem instance;
@@ -50,4 +51,22 @@ public class HealthSystem : MonoBehaviour
         }
         healthbar.value = currentHealth;
     }
+
+
+    public void OpenGameOver()
+    {
+        
+        UiManager.instnace.OpenScene(0);
+        UiManager.instnace.GameEndUI(GameStat.GameOver);
+        Time.timeScale = 0;
+    }
+
+    public void victory()
+    {
+       
+        UiManager.instnace.OpenScene(0);
+        UiManager.instnace.GameEndUI(GameStat.Victory);
+        Time.timeScale = 0;
+    }
+
 }

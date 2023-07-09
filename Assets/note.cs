@@ -12,6 +12,8 @@ public class note : MonoBehaviour
 {
 
     public notetype thisnotetype;
+    public bool IslastNote = false;
+
     int index;
     public void chagnelayer(float x)
     {
@@ -36,6 +38,12 @@ public class note : MonoBehaviour
                 HealthSystem.instance.ReduceHelth();
                 ComboManage.instance.ResetCombo();
             }
+
+            if(IslastNote)
+            {
+                HealthSystem.instance.victory();
+            }
+
             Spawing.instance.DelegateLayer[index].RemoveListener(chagnelayer);
             this.gameObject.SetActive(false);
         }

@@ -8,8 +8,9 @@ public class ComboManage : MonoBehaviour
 
     [SerializeField] float TextTime;
     [SerializeField] TextMeshProUGUI ComBoText;
+    [SerializeField] TextMeshProUGUI BestComBoText;
     int currentCombo = 0;
-    int hightCombo;
+   public int hightCombo;
     Coroutine OffTextCoro;
 
     private void Awake()
@@ -20,6 +21,7 @@ public class ComboManage : MonoBehaviour
     public void Combo()
     {
         currentCombo++;
+        BestComBoText.text = "Best Combo:" +  hightCombo.ToString();
         if (currentCombo > hightCombo) hightCombo = currentCombo;
         ComBoText.text = currentCombo.ToString();
       if (OffTextCoro == null )     OffTextCoro = StartCoroutine(OffText(TextTime));

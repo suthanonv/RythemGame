@@ -46,12 +46,15 @@ public class Spawing : MonoBehaviour
     {
         audioMusic.Play();
     }
+
+    note lastnote;
     IEnumerator StartPattern()
     {
         int count = 0;
-
+    
         while (count < patterntospawn.Count)
         {
+            List<note> lastnote = new List<note>();
             patterntospawn[count].AllNote = RandomIndex(patterntospawn[count]);
             foreach (NoteToSpawn i in patterntospawn[count].AllNote)
             {
@@ -64,12 +67,20 @@ public class Spawing : MonoBehaviour
                     NewNote.SetLayer(i.LayerToSpawn);
                     DelegateLayer[i.LayerToSpawn].AddListener(NewNote.chagnelayer);
                     NewNote.gameObject.SetActive(true);
+                    lastnote.Add(NewNote);
+                }
+                
+            }
+
+            if (count < patterntospawn.Count) yield return new WaitForSeconds(patterntospawn[count].delayToNextPattern);
+            if(count +1 >= patterntospawn.Count)
+            {
+                Debug.Log("near vicory" + lastnote.Count.ToString()) ;
+                foreach(note i in lastnote)
+                {
+                    i.IslastNote = true;
                 }
             }
-           
-          if(count < patterntospawn.Count)
-            yield return new WaitForSeconds(patterntospawn[count].delayToNextPattern);
-
             count++;
         }
     }
@@ -141,6 +152,8 @@ public class NoteToSpawn
             LayerToSpawn = value;
         }
     }
+
+
 }
 
 
