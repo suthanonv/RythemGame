@@ -562,7 +562,7 @@ MonoBehaviour:
       IsHaveNote: 1
       LayerToSpawn: 3
     - typeofNote: 1
-      IsHaveNote: 0
+      IsHaveNote: 1
       LayerToSpawn: 0
     - typeofNote: 2
       IsHaveNote: 0
@@ -573,41 +573,41 @@ MonoBehaviour:
   - delayToNextPattern: 1.4
     AllNote:
     - typeofNote: 0
-      IsHaveNote: 1
+      IsHaveNote: 0
       LayerToSpawn: 3
     - typeofNote: 1
       IsHaveNote: 0
       LayerToSpawn: 0
     - typeofNote: 2
-      IsHaveNote: 0
+      IsHaveNote: 1
       LayerToSpawn: 1
     - typeofNote: 3
-      IsHaveNote: 0
+      IsHaveNote: 1
       LayerToSpawn: 2
   - delayToNextPattern: 1.33
     AllNote:
     - typeofNote: 0
-      IsHaveNote: 1
+      IsHaveNote: 0
       LayerToSpawn: 3
     - typeofNote: 1
       IsHaveNote: 0
       LayerToSpawn: 0
     - typeofNote: 2
-      IsHaveNote: 0
+      IsHaveNote: 1
       LayerToSpawn: 1
     - typeofNote: 3
-      IsHaveNote: 0
+      IsHaveNote: 1
       LayerToSpawn: 2
   - delayToNextPattern: 1.46
     AllNote:
     - typeofNote: 0
-      IsHaveNote: 1
+      IsHaveNote: 0
       LayerToSpawn: 3
     - typeofNote: 1
-      IsHaveNote: 0
+      IsHaveNote: 1
       LayerToSpawn: 0
     - typeofNote: 2
-      IsHaveNote: 0
+      IsHaveNote: 1
       LayerToSpawn: 1
     - typeofNote: 3
       IsHaveNote: 0
@@ -615,16 +615,16 @@ MonoBehaviour:
   - delayToNextPattern: 1.33
     AllNote:
     - typeofNote: 0
-      IsHaveNote: 1
+      IsHaveNote: 0
       LayerToSpawn: 3
     - typeofNote: 1
-      IsHaveNote: 0
+      IsHaveNote: 1
       LayerToSpawn: 0
     - typeofNote: 2
       IsHaveNote: 0
       LayerToSpawn: 1
     - typeofNote: 3
-      IsHaveNote: 0
+      IsHaveNote: 1
       LayerToSpawn: 2
   - delayToNextPattern: 1.36
     AllNote:
@@ -638,21 +638,21 @@ MonoBehaviour:
       IsHaveNote: 0
       LayerToSpawn: 1
     - typeofNote: 3
-      IsHaveNote: 0
+      IsHaveNote: 1
       LayerToSpawn: 2
   - delayToNextPattern: 1.35
     AllNote:
     - typeofNote: 0
-      IsHaveNote: 1
+      IsHaveNote: 0
       LayerToSpawn: 3
     - typeofNote: 1
-      IsHaveNote: 0
+      IsHaveNote: 1
       LayerToSpawn: 0
     - typeofNote: 2
       IsHaveNote: 0
       LayerToSpawn: 1
     - typeofNote: 3
-      IsHaveNote: 0
+      IsHaveNote: 1
       LayerToSpawn: 2
   - delayToNextPattern: 1.35
     AllNote:
