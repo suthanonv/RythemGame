@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 using System.Linq;
+using Unity.VisualScripting;
+
 public class Spawing : MonoBehaviour
 {
     [SerializeField] List<SpawningPattern> patterntospawn = new List<SpawningPattern>();
@@ -50,6 +52,7 @@ public class Spawing : MonoBehaviour
 
         while (count < patterntospawn.Count)
         {
+            patterntospawn[count].AllNote = RandomIndex(patterntospawn[count]);
             foreach (NoteToSpawn i in patterntospawn[count].AllNote)
             {
                 if (i.IsHaveNote)
@@ -96,8 +99,19 @@ public class Spawing : MonoBehaviour
         loadNewLayer();
     }
 
+    List<NoteToSpawn> RandomIndex(SpawningPattern PatternToRan)
+    {
+        for (int x = 0; x < Random.Range(0, 5); x++)
+        {
+            int temp = PatternToRan.AllNote[PatternToRan.AllNote.Count - 1].LayerToSpawn;
+            for (int i = (PatternToRan.AllNote.Count - 2); i >= 0; i--) PatternToRan.AllNote[i + 1].LayerToSpawn = PatternToRan.AllNote[i].LayerToSpawn;
+            PatternToRan.AllNote[0].LayerToSpawn = temp;
+        }
 
-    
+        return PatternToRan.AllNote;
+    }
+
+
 }
 
 
@@ -115,6 +129,18 @@ public class NoteToSpawn
     public notetype typeofNote;
     public bool IsHaveNote;
     public int LayerToSpawn;
+
+    public int LayerToSpawnRandom
+    {
+        get
+        {
+            return LayerToSpawn;
+        }
+        set
+        {
+            LayerToSpawn = value;
+        }
+    }
 }
 
 
