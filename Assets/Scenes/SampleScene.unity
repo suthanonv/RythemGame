@@ -368,7 +368,7 @@ MonoBehaviour:
     - typeofNote: 3
       IsHaveNote: 0
       LayerToSpawn: 2
-  - delayToNextPattern: 1.4
+  - delayToNextPattern: 1.38
     AllNote:
     - typeofNote: 0
       IsHaveNote: 0
@@ -378,160 +378,6 @@ MonoBehaviour:
       LayerToSpawn: 0
     - typeofNote: 2
       IsHaveNote: 1
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 1.4
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 0
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 1
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 1.5
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 0
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 1
-      LayerToSpawn: 2
-  - delayToNextPattern: 1.4
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 0
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 1
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 1.4
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 1.4
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 0
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 1
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 1
-      LayerToSpawn: 2
-  - delayToNextPattern: 1.3
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 1
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 1.35
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 0
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 1
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 1
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 1.4
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 1.5
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 1.35
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 1.35
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
       LayerToSpawn: 1
     - typeofNote: 3
       IsHaveNote: 0
@@ -539,6 +385,48 @@ MonoBehaviour:
   - delayToNextPattern: 1.3
     AllNote:
     - typeofNote: 0
+      IsHaveNote: 0
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 1
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 1.38
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 0
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 1
+      LayerToSpawn: 2
+  - delayToNextPattern: 1.31
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 0
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 1
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 1.55
+    AllNote:
+    - typeofNote: 0
       IsHaveNote: 1
       LayerToSpawn: 3
     - typeofNote: 1
@@ -550,7 +438,49 @@ MonoBehaviour:
     - typeofNote: 3
       IsHaveNote: 0
       LayerToSpawn: 2
-  - delayToNextPattern: 1.4
+  - delayToNextPattern: 1.43
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 0
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 1
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 1
+      LayerToSpawn: 2
+  - delayToNextPattern: 1.36
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 1
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 1.45
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 0
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 1
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 1
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 1.38
     AllNote:
     - typeofNote: 0
       IsHaveNote: 1
@@ -578,7 +508,105 @@ MonoBehaviour:
     - typeofNote: 3
       IsHaveNote: 0
       LayerToSpawn: 2
-  - delayToNextPattern: 1.4
+  - delayToNextPattern: 1.33
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 1.46
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 1.33
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 1.36
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 1.35
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 1.35
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 1.38
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 1.46
     AllNote:
     - typeofNote: 0
       IsHaveNote: 1
@@ -606,7 +634,7 @@ MonoBehaviour:
     - typeofNote: 3
       IsHaveNote: 0
       LayerToSpawn: 2
-  - delayToNextPattern: 1.4
+  - delayToNextPattern: 1.18
     AllNote:
     - typeofNote: 0
       IsHaveNote: 1
@@ -620,7 +648,7 @@ MonoBehaviour:
     - typeofNote: 3
       IsHaveNote: 0
       LayerToSpawn: 2
-  - delayToNextPattern: 1.4
+  - delayToNextPattern: 1.53
     AllNote:
     - typeofNote: 0
       IsHaveNote: 1
@@ -634,7 +662,7 @@ MonoBehaviour:
     - typeofNote: 3
       IsHaveNote: 0
       LayerToSpawn: 2
-  - delayToNextPattern: 1.4
+  - delayToNextPattern: 1.36
     AllNote:
     - typeofNote: 0
       IsHaveNote: 1
@@ -648,7 +676,7 @@ MonoBehaviour:
     - typeofNote: 3
       IsHaveNote: 0
       LayerToSpawn: 2
-  - delayToNextPattern: 1.4
+  - delayToNextPattern: 1.38
     AllNote:
     - typeofNote: 0
       IsHaveNote: 1
@@ -662,7 +690,217 @@ MonoBehaviour:
     - typeofNote: 3
       IsHaveNote: 0
       LayerToSpawn: 2
-  - delayToNextPattern: 1.4
+  - delayToNextPattern: 1.53
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.76
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.78
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.75
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.68
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.71
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.73
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.76
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.73
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.58
     AllNote:
     - typeofNote: 0
       IsHaveNote: 1
@@ -677,6 +915,48 @@ MonoBehaviour:
       IsHaveNote: 0
       LayerToSpawn: 2
   - delayToNextPattern: 0.7
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.56
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.68
     AllNote:
     - typeofNote: 0
       IsHaveNote: 1
@@ -704,7 +984,273 @@ MonoBehaviour:
     - typeofNote: 3
       IsHaveNote: 0
       LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.78
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.71
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
   - delayToNextPattern: 0.7
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.75
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.71
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.68
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.6
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.7
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.6
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.71
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.7
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.73
     AllNote:
     - typeofNote: 0
       IsHaveNote: 1
@@ -746,7 +1292,1575 @@ MonoBehaviour:
     - typeofNote: 3
       IsHaveNote: 0
       LayerToSpawn: 2
+  - delayToNextPattern: 0.68
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.56
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.71
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.68
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.68
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
   - delayToNextPattern: 0.7
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.6
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.71
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.69
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.75
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.76
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.68
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.61
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.75
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.73
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.7
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.6
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.61
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.61
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.71
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.71
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.7
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.73
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.9
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.55
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.58
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.61
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.61
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.7
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.7
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.61
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.68
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.68
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.68
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.7
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.68
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.61
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.68
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.76
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.68
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.7
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.7
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.58
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.56
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.73
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.7
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.61
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.68
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.7
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.71
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.61
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.61
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.7
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.6
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.71
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 60
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.7
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.61
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.63
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.75
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.68
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.61
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.7
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.68
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.66
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.78
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.53
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.73
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.65
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.73
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.56
+    AllNote:
+    - typeofNote: 0
+      IsHaveNote: 1
+      LayerToSpawn: 3
+    - typeofNote: 1
+      IsHaveNote: 0
+      LayerToSpawn: 0
+    - typeofNote: 2
+      IsHaveNote: 0
+      LayerToSpawn: 1
+    - typeofNote: 3
+      IsHaveNote: 0
+      LayerToSpawn: 2
+  - delayToNextPattern: 0.8
     AllNote:
     - typeofNote: 0
       IsHaveNote: 1
@@ -774,7 +2888,7 @@ MonoBehaviour:
     - typeofNote: 3
       IsHaveNote: 0
       LayerToSpawn: 2
-  - delayToNextPattern: 0.7
+  - delayToNextPattern: 0.63
     AllNote:
     - typeofNote: 0
       IsHaveNote: 1
@@ -788,7 +2902,7 @@ MonoBehaviour:
     - typeofNote: 3
       IsHaveNote: 0
       LayerToSpawn: 2
-  - delayToNextPattern: 0.7
+  - delayToNextPattern: 0.68
     AllNote:
     - typeofNote: 0
       IsHaveNote: 1
@@ -802,7 +2916,7 @@ MonoBehaviour:
     - typeofNote: 3
       IsHaveNote: 0
       LayerToSpawn: 2
-  - delayToNextPattern: 0.7
+  - delayToNextPattern: 0.66
     AllNote:
     - typeofNote: 0
       IsHaveNote: 1
@@ -816,7 +2930,7 @@ MonoBehaviour:
     - typeofNote: 3
       IsHaveNote: 0
       LayerToSpawn: 2
-  - delayToNextPattern: 0.7
+  - delayToNextPattern: 0.75
     AllNote:
     - typeofNote: 0
       IsHaveNote: 1
@@ -830,1113 +2944,7 @@ MonoBehaviour:
     - typeofNote: 3
       IsHaveNote: 0
       LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.5
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.5
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.5
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.5
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.5
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.5
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 1
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 1.2
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
-    AllNote:
-    - typeofNote: 0
-      IsHaveNote: 1
-      LayerToSpawn: 3
-    - typeofNote: 1
-      IsHaveNote: 0
-      LayerToSpawn: 0
-    - typeofNote: 2
-      IsHaveNote: 0
-      LayerToSpawn: 1
-    - typeofNote: 3
-      IsHaveNote: 0
-      LayerToSpawn: 2
-  - delayToNextPattern: 0.7
+  - delayToNextPattern: 0.51
     AllNote:
     - typeofNote: 0
       IsHaveNote: 1
