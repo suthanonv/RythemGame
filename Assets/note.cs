@@ -29,7 +29,12 @@ public class note : MonoBehaviour
         {
             if (collision.gameObject.GetComponent<BoxColor>().NoteTypeOFBox == thisnotetype)
             {
-                Debug.Log("Correct Note");
+                HealthSystem.instance.Heal();
+                ComboManage.instance.Combo();
+            }
+            else{
+                HealthSystem.instance.ReduceHelth();
+                ComboManage.instance.ResetCombo();
             }
             Spawing.instance.DelegateLayer[index].RemoveListener(chagnelayer);
             this.gameObject.SetActive(false);
